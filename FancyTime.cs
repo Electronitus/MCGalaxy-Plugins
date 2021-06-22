@@ -2,7 +2,7 @@ using System;
 using MCGalaxy;
 using MCGalaxy.Commands;
 
-namespace SubelectroniteServer {
+namespace Plugins {
 
     public sealed class FancyTime : Plugin {
 
